@@ -35,6 +35,17 @@ If you want to run the complete Project you can start with the Data Collection N
 After you created the datasaet you can start with the model training. For that you can start with one of the training notebooks. The same here the training can be very time conusming and because of that I stored all the trained models and you can just use them in the further steps. 
 The last notebook is the validation notebook.
 
+
+<h2>How to start</h2>
+
+1. Creaete a Google account
+2. Download this repository as .zip 
+3. extract the files from the downloaded folder
+4. create a folder in your root folder in Google drive with the name ML2
+5. Upload the folder ExamProject to Google Drive in the newly created folder ML2
+6. Lets start with the exploration of my notebooks
+
+
 ---
 
 <h2>Collecting Data</h2>
