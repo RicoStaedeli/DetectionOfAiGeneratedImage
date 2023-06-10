@@ -24,8 +24,10 @@
 
 ---
 
-<h2>Goal</h2>
+<h2>Goal and motivation</h2>
+Generative AI is getting better the longer it goes on. This has not only advantages. It is possible to create images of unprecedented situations. This also applies to people. For this reason, it is necessary to be able to find out whether a face is a synthetically generated image or whether the image is real.
 The goal of this project is to create a machine learning model which can classify faces if they are genereated by an AI or if they are real. 
+My personell motivation for this project is to find out the possibility of cutting edge technologies for generative AI. I am interessted to see if there is a way to classify the images correct. 
 
 ---
 
