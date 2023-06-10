@@ -29,6 +29,9 @@ Generative AI is getting better the longer it goes on. This has not only advanta
 The goal of this project is to create a machine learning model which can classify faces if they are genereated by an AI or if they are real. 
 My personell motivation for this project is to find out the possibility of cutting edge technologies for generative AI. I am interessted to see if there is a way to classify the images correct. 
 
+One of thoese two images is generated with a stable diffusion model. Personally I can't tell which one is the genereated. We will see later if the model is able to classify the image right.
+<img width="755" alt="Screenshot 2023-06-10 160637" src="https://github.com/RicoStaedeli/ml2_project/assets/62505224/3c044185-67f8-4b55-a909-24e6521e60c3">
+
 ---
 
 <h2>Structure of the Project</h2>
