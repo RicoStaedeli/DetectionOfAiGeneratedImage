@@ -1,4 +1,4 @@
-<h1>Project Description</h1>
+<h1>Detection of AI generated Images</h1>
 
 ---
 
